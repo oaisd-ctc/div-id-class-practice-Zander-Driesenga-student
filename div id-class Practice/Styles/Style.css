@@ -1,0 +1,38 @@
+.main-box {
+    height: 100px;
+    width: 100%;
+    margin: 10px;
+    border-radius:10px;
+    background-color:red;
+    text-indent: 5px;
+}
+#green-box {
+    background-color: green;
+}
+#yellow-box {
+    background-color: yellow;
+}
+#purple-box {
+    background-color:purple;
+}
+#blood-orange {
+    background-color: #d1001c;
+}
+#iron-box {
+    background-color: #d4d7d9;
+}
+#neon-green-box {
+    background-color : #39ff14;
+}
+#chocolate-box {
+    background-color:chocolate;
+}
+#orange-box {
+    background-color: orange;
+}
+#blue-box {
+    background-color: blue;
+}
+#neon-blue-box {
+    background-color: #04d9ff;
+}
